@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>fr.pernisi</groupId>
-	<artifactId>exemple.userManager</artifactId>
+	<artifactId>exo1.userManager</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>userManager</name>
 	<description>User manager for exemple</description>
